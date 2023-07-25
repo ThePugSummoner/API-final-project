@@ -1,0 +1,11 @@
+Jokujaba	jokujaba@gmail.com	password: lemon@jok!
+
+Mario	mario@littlelemon.com	password: lemon@mar!
+
+Pedro	pedro@littlelemon.com	password: lemon@ped!
+
+Pertti	pertti@littlelemon.com  password: lemon@per!
+
+Philip	philip@littlelemon.com	password: lemon@phi!
+
+admin	admin@littlelemon.com	password: admin@123!
